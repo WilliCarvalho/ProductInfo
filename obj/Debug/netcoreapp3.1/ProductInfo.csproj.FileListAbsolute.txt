@@ -1,0 +1,11 @@
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\bin\Debug\netcoreapp3.1\ProductInfo.exe
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\bin\Debug\netcoreapp3.1\ProductInfo.deps.json
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\bin\Debug\netcoreapp3.1\ProductInfo.runtimeconfig.json
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\bin\Debug\netcoreapp3.1\ProductInfo.runtimeconfig.dev.json
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\bin\Debug\netcoreapp3.1\ProductInfo.dll
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\bin\Debug\netcoreapp3.1\ProductInfo.pdb
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\obj\Debug\netcoreapp3.1\ProductInfo.csprojAssemblyReference.cache
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\obj\Debug\netcoreapp3.1\ProductInfo.AssemblyInfoInputs.cache
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\obj\Debug\netcoreapp3.1\ProductInfo.AssemblyInfo.cs
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\obj\Debug\netcoreapp3.1\ProductInfo.dll
+C:\Users\Willian Matheus\Desktop\Cursos\C#-curso\ProductInfo\obj\Debug\netcoreapp3.1\ProductInfo.pdb
